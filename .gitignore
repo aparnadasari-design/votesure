@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# XAMPP / local server artifacts
+*.log
+
+# Environment-specific config (if you later split credentials out)
+.env
